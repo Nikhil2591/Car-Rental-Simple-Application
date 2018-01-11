@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Author\:\ Nikhil\ Shah\r\n\ ID\ Number\ 11061376\r\n\ Car\ Super\ Class\r\n
+comment1.params=CarDescription
+comment1.target=Car(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getdescription()
+comment2.text=\r\n\ The\ description\ of\ the\ Car\r\n
+comment3.params=
+comment3.target=java.lang.String\ getcustomer()
+comment3.text=\r\n\ The\ name\ of\ the\ customer\r\n
+comment4.params=newCustomer
+comment4.target=void\ setCustomer(java.lang.String)
+comment4.text=\r\n\ \ This\ method\ will\ enable\ the\ user\ to\ change\ the\ customer\ name\ to\ a\ new\ customer\ name.\r\n
+comment5.params=
+comment5.target=void\ displayCar()
+comment5.text=\r\n\ The\ description\ and\ customer\ is\ shown\ as\ an\ output\ for\ when\ the\ car\ is\ sold\ or\ rented\ out.\r\n
+numComments=6
